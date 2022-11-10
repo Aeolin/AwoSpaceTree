@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceTrees.Test", "SpaceTrees.Test\SpaceTrees.Test.csproj", "{AB18BAA1-446F-46D6-9A2B-2EE4D8511EF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AwoSpaceTree", "AwoSpaceTree\AwoSpaceTree.csproj", "{92CE83D1-5A9F-4948-BBEC-DCA25EEEADF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB18BAA1-446F-46D6-9A2B-2EE4D8511EF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB18BAA1-446F-46D6-9A2B-2EE4D8511EF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB18BAA1-446F-46D6-9A2B-2EE4D8511EF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB18BAA1-446F-46D6-9A2B-2EE4D8511EF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92CE83D1-5A9F-4948-BBEC-DCA25EEEADF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92CE83D1-5A9F-4948-BBEC-DCA25EEEADF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92CE83D1-5A9F-4948-BBEC-DCA25EEEADF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92CE83D1-5A9F-4948-BBEC-DCA25EEEADF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60C1FCDF-C8CF-4205-9CA5-D52E8D960CA3}
+	EndGlobalSection
+EndGlobal
